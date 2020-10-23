@@ -16,8 +16,6 @@ Version with saving every day dataset with the same name:
 (run only with python 'filename.py' / no crontab)
 [download_same_filename.py](https://github.com/Georgitanev/downloading_data_uploading_gbq_via/blob/main/download_same_filename.py)
 
-
-download_same_filename.py
 #### Python version:
 Python 3.7.9
 ### how to install:
