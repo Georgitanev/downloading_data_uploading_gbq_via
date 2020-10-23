@@ -6,6 +6,7 @@ Local copy save name is in this format:
 'complete_dataset_23_10_2020.csv' (today date)
 
 
+
 ### Repo contain windows wersion with scheduling and linux version with crontab
 
 Windows version -  [download.py](https://github.com/Georgitanev/downloading_data_uploading_gbq_via/blob/main/download.py)
@@ -17,6 +18,11 @@ Python 3.7.9
 ```sh
 pip install -r requirements.txt
 ```
+
+#### Key for Google big query:
+You should put your keygen for google big Query in folder 'key' and rename the 
+'big-query-284408-e895d0eb5b23.json' with the name of your json file.
+
 
 Run windows version: 
 (it run in schedule every day at 23:55)
