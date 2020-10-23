@@ -7,7 +7,7 @@ Local copy save name is in this format:
 
 
 
-### Repo contain windows wersion with scheduling and linux version with crontab
+### Repo contain windows version with scheduling and linux version with crontab
 
 Windows version -  [download.py](https://github.com/Georgitanev/downloading_data_uploading_gbq_via/blob/main/download.py)
 Linux version - [download_linux_version.py](https://github.com/Georgitanev/downloading_data_uploading_gbq_via/blob/main/download_linux_version.py)
