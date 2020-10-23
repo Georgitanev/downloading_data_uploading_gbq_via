@@ -34,10 +34,20 @@ Run in linux version:
 ```sh
 python download.py
 ```
-Also you can run linux version with this command:
+Also you can run linux version with this crontab command:
+```sh
+crontab 55 23 * * * python download_linux_version.py
+```
+
+or write a line in crontab file with this command:
+```sh
+crontab -e
+```
+Write line:
 ```sh
 55 23 * * * python download_linux_version.py
 ```
+And save it.
 
 #### Optional:
 You can generate schema for Google Big Query table with this script:
